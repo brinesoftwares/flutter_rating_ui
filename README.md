@@ -1,16 +1,14 @@
-# FlutterRatingUI
+# UI Challenge
 
-A new Flutter project.
+Flutter Rating App UI Challenge
 
-## Getting Started
+## UI Reference
 
-This project is a starting point for a Flutter application.
+https://www.behance.net/gallery/101490173/Simple-Clean-Rating-UI-Daily-interaction-5
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ <p align="center">
+  <img src="https://github.com/brinesoftwares/flutter_rating_ui/blob/master/UI_Rating.gif?raw=true" width="1000" >
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
